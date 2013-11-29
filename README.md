@@ -1,4 +1,4 @@
-#IronIO Worker Done
+#Process Done
 Convenient done handler that exits a process properly. Use with worker processes like for [iron.io](http://www.iron.io/worker)
 
 #Install
