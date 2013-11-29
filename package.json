@@ -1,6 +1,6 @@
 {
     "name": "process-done",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Convenient done handler that exits a process properly. Use with worker processes like for iron.io @ http://www.iron.io/worker",
     "main": "index.js",
     "keywords": [
